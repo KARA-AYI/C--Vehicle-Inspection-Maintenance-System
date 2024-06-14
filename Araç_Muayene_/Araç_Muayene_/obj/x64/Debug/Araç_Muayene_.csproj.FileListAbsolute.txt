@@ -1,0 +1,11 @@
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.csproj.AssemblyReference.cache
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.Form1.resources
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.Form2.resources
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.Properties.Resources.resources
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.csproj.GenerateResource.cache
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.csproj.CoreCompileInputs.cache
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\bin\x64\Debug\Araç_Muayene_.exe.config
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\bin\x64\Debug\Araç_Muayene_.exe
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\bin\x64\Debug\Araç_Muayene_.pdb
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.exe
+C:\Users\frtgn\OneDrive\Masaüstü\Araç_Muayene_\Araç_Muayene_\obj\x64\Debug\Araç_Muayene_.pdb
